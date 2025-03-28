@@ -1,7 +1,3 @@
-Here’s a detailed **GitHub README** for **SlideCraft Pro**, your advanced AI-powered PPT generation tool.
-
----
-
 # 🎨 SlideCraft Pro - AI-Powered Presentation Builder 🚀  
 
 ![SlideCraft Pro](https://github.com/user-attachments/assets/b2519126-31e4-40dd-87c9-5ce5132a7efb)
@@ -115,7 +111,3 @@ For questions or feedback, reach out.
 ---
 
 ### 🌟 If you like SlideCraft Pro, don't forget to ⭐ the repo!  
-
----
-
-This README provides everything needed to **install, use, and contribute** to SlideCraft Pro. Let me know if you need **modifications or additional sections**! 🚀
